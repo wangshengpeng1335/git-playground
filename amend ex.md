@@ -1,1 +1,1 @@
-amend ex lianXI
+AMEND ex lianXI
